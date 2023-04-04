@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liza-tawaf
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on New ideas 
-- 📫 How to reach me elizabeth.tawaf@afterpay.com or lizatawaf@gmail.com
+- 📫 How to reach me ltawaf@squareup.com, lizatawaf@gmail.com slack @ltawaf
 
 <!---
 liza-tawaf/liza-tawaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
