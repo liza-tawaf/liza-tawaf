@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liza-tawaf
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on New ideas 
-- 📫 How to reach me ltawaf@squareup.com, lizatawaf@gmail.com or on slack @ltawaf
+- 📫 How to reach me ltawaf@squareup.com or on slack @ltawaf
 - 🧩 Current team: Merchant Hub 
 
 <!---
